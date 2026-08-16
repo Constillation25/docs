@@ -1,4 +1,11 @@
-node_modules/
-__pycache__/
-.env
+*.db
 *.log
+*.partial
+*.pid
+*.sqlite
+.DS_Store
+.cache/
+.env
+.env*
+__pycache__/
+node_modules/
